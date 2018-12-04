@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1087082624403",
+    "firebase_url": "https://maufood-c8487.firebaseio.com",
+    "project_id": "maufood-c8487",
+    "storage_bucket": "maufood-c8487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087082624403:android:ef60e871fc319770",
+        "android_client_info": {
+          "package_name": "com.dissert.cs.maufood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087082624403-rbk922gibs4kosb264on2mj6k3fdc10b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dissert.cs.maufood",
+            "certificate_hash": "ef79c85038d8b23703014463dc6a905d3dcd0b33"
+          }
+        },
+        {
+          "client_id": "1087082624403-kej2ehontqlp01l9r57ipbttr8cebt6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT2w23zDTaL7sh3my74o3Lsm1wSpdjibM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087082624403-kej2ehontqlp01l9r57ipbttr8cebt6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087082624403:android:a7c1ce4fd16d2dad",
+        "android_client_info": {
+          "package_name": "com.dissert.cs.maufoodserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087082624403-kej2ehontqlp01l9r57ipbttr8cebt6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT2w23zDTaL7sh3my74o3Lsm1wSpdjibM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
